@@ -1,6 +1,6 @@
 
 
-# This Two Command Execute for Run category Management (tree)
+# This Two Command Run fro execute category Management (tree)
 1. npm install
 2. npm start
 
